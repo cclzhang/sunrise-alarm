@@ -7,6 +7,6 @@
 
 <h2>License</h2>
 
-<p>Copyright &copy; 2021 Cecile Zhang. All rights reserved.</p>
+<p>Copyright &copy; 2019 Cecile Zhang. All rights reserved.</p>
 
 <p>Licensed under the <a href="./LICENSE">MIT License.</a></p>
